@@ -79,6 +79,7 @@ p{
 
 #img_content{
 	background-color: rgba(0, 0, 0, .5);
+	filter: contrast(80%);
 	padding: 20px 20px 20px 20px;
 	cursor: default;
 }
